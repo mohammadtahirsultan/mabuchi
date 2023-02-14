@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.mask-group-icon {
+  position: absolute;
+  top: 49px;
+  left: 46px;
+  width: 100px;
+  height: 27.14px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.philosophy {
+  top: 0;
+  text-align: center;
+}
+.blog,
+.contact,
+.founder,
+.philosophy,
+.press,
+.projects {
+  position: absolute;
+  left: 38px;
+  line-height: 141.4%;
+  cursor: pointer;
+}
+.projects {
+  top: 50px;
+  text-align: center;
+}
+.blog,
+.contact,
+.founder,
+.press {
+  top: 100px;
+}
+.blog,
+.contact,
+.press {
+  top: 150px;
+}
+.blog,
+.contact {
+  top: 200px;
+}
+.contact {
+  top: 250px;
+}
+.frame-child {
+  position: absolute;
+  top: 270px;
+  left: 0;
+  width: 8px;
+  height: 8px;
+}
+.philosophy-parent {
+  position: absolute;
+  top: 295px;
+  left: 46px;
+  width: 219px;
+  height: 294px;
+}
+.mobile-navbar-child {
+  position: absolute;
+  top: 41px;
+  left: 325px;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+}
+.mobile-navbar {
+  position: relative;
+  background-color: var(--color-gray-200);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.shine-mongol-mabuchi-logo-remo-icon {
+  object-fit: cover;
+}
+.mask-group1,
+.shine-mongol-mabuchi-logo-remo-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1953.15px;
+  height: 530px;
+}
+.mask-group {
+  position: relative;
+  width: 100%;
+  height: 530px;
+}

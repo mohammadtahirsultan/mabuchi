@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.download-5-33,
+.mob-bg-1-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 520px;
+  height: 926px;
+  object-fit: cover;
+}
+.download-5-33 {
+  width: 428px;
+}
+.we-are-design3 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.estate-developer3 {
+  margin: 0;
+}
+.founder6,
+.recognizing-the-needs3,
+.we-are-design-container3 {
+  position: absolute;
+  top: 125px;
+  left: 46px;
+  line-height: 141.4%;
+}
+.founder6,
+.recognizing-the-needs3 {
+  top: 701px;
+  left: 161px;
+}
+.recognizing-the-needs3 {
+  top: 29.15px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 379px;
+}
+.charles-eames3 {
+  position: absolute;
+  top: 0;
+  left: 3.72px;
+  line-height: 141.4%;
+  color: var(--color-dimgray);
+}
+.recognizing-the-needs-in-the-p-parent1 {
+  position: absolute;
+  top: 235px;
+  left: 26px;
+  width: 377px;
+  height: 71px;
+  text-align: left;
+  font-size: var(--font-size-base);
+}
+.mask-group-icon9 {
+  position: absolute;
+  top: 49px;
+  left: 46px;
+  width: 100px;
+  height: 27.14px;
+  object-fit: cover;
+}
+.child4,
+.child5 {
+  position: absolute;
+  top: 761px;
+  left: 189px;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+}
+.child5 {
+  top: 43px;
+  left: 337px;
+  width: 46px;
+  height: 46px;
+}
+.div3 {
+  position: relative;
+  background-color: var(--color-gray-200);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

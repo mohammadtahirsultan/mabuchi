@@ -1,0 +1,18 @@
+:root {
+  /* fonts */
+  --font-montserrat: Montserrat;
+
+  /* font sizes */
+  --font-size-base: 14.89px;
+  --font-size-lg: 24px;
+  --font-size-xl: 27px;
+  --font-size-2xl: 31px;
+  --font-size-3xl: 42px;
+  --font-size-4xl: 66px;
+
+  /* Colors */
+  --color-gray-100: #828282;
+  --color-gray-200: #080826;
+  --color-white: #fff;
+  --color-dimgray: #5a5a5a;
+}

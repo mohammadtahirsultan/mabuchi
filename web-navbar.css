@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.creative-nights {
+  color: var(--color-white);
+}
+.crafted-by-creative-container {
+  position: absolute;
+  top: 828px;
+  left: 1011px;
+  line-height: 141.4%;
+}
+.mask-group-icon12 {
+  position: absolute;
+  top: 94px;
+  left: 103px;
+  width: 120px;
+  height: 32.56px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.web-navbar-child {
+  position: absolute;
+  top: 58px;
+  left: 1236px;
+  width: 62px;
+  height: 62px;
+  cursor: pointer;
+}
+.image-2-icon {
+  position: absolute;
+  top: 196px;
+  left: 417px;
+  width: 607px;
+  height: 632px;
+  object-fit: cover;
+}
+.contact7,
+.founder7,
+.philosophy6,
+.press7,
+.projects7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 141.4%;
+}
+.contact7,
+.founder7,
+.press7,
+.projects7 {
+  top: 59px;
+}
+.contact7,
+.founder7,
+.press7 {
+  top: 118px;
+}
+.contact7,
+.press7 {
+  top: 177px;
+}
+.contact7 {
+  top: 295px;
+}
+.linkicon-1 {
+  position: absolute;
+  top: 17px;
+  left: 114px;
+  width: 23.08px;
+  height: 25px;
+  overflow: hidden;
+}
+.blog-parent {
+  position: absolute;
+  top: 236px;
+  left: 0;
+  width: 137.08px;
+  height: 59px;
+}
+.philosophy-parent3 {
+  position: absolute;
+  top: 512px;
+  left: 111px;
+  width: 246px;
+  height: 354px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+}
+.web-navbar {
+  position: relative;
+  background-color: var(--color-gray-200);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 21.37px;
+  color: var(--color-gray-100);
+  font-family: var(--font-montserrat);
+}

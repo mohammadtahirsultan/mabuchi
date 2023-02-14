@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./mobile-navbar1.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&display=swap"
+    />
+  </head>
+  <body>
+    <div class="mobile-navbar1">
+      <img
+        class="mask-group-icon1"
+        alt=""
+        src="public/mask-group@2x.png"
+        id="maskGroupImage"
+      />
+      <div class="philosophy-group">
+        <b class="philosophy1" id="philosophyText">Philosophy</b
+        ><b class="projects1" id="projectsText">Projects</b
+        ><b class="founder1" id="founderText">Founder</b
+        ><b class="press1" id="pressText">Press</b
+        ><b class="blog1" id="blogText">Blog</b
+        ><b class="contact1" id="contactText">Contact</b
+        ><img class="frame-item" alt="" src="public/ellipse-2.svg" />
+      </div>
+      <img
+        class="mobile-navbar-item"
+        alt=""
+        src="public/frame-2.svg"
+        id="frameIcon"
+      />
+    </div>
+
+    <script>
+      var maskGroupImage = document.getElementById("maskGroupImage");
+      if (maskGroupImage) {
+        maskGroupImage.addEventListener("click", function (e) {
+          window.location.href = "./component1.html";
+        });
+      }
+      
+      var philosophyText = document.getElementById("philosophyText");
+      if (philosophyText) {
+        philosophyText.addEventListener("click", function (e) {
+          window.location.href = "./component5.html";
+        });
+      }
+      
+      var projectsText = document.getElementById("projectsText");
+      if (projectsText) {
+        projectsText.addEventListener("click", function (e) {
+          window.location.href = "./component4.html";
+        });
+      }
+      
+      var founderText = document.getElementById("founderText");
+      if (founderText) {
+        founderText.addEventListener("click", function (e) {
+          window.location.href = "./component3.html";
+        });
+      }
+      
+      var pressText = document.getElementById("pressText");
+      if (pressText) {
+        pressText.addEventListener("click", function (e) {
+          window.location.href = "./component2.html";
+        });
+      }
+      
+      var blogText = document.getElementById("blogText");
+      if (blogText) {
+        blogText.addEventListener("click", function (e) {
+          window.location.href = "./component1.html";
+        });
+      }
+      
+      var contactText = document.getElementById("contactText");
+      if (contactText) {
+        contactText.addEventListener("click", function (e) {
+          window.location.href = "./component.html";
+        });
+      }
+      
+      var frameIcon = document.getElementById("frameIcon");
+      if (frameIcon) {
+        frameIcon.addEventListener("click", function (e) {
+          window.location.href = "./component1.html";
+        });
+      }
+      </script>
+  </body>
+</html>

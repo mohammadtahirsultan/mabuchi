@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.mask-group-icon2 {
+  position: absolute;
+  top: 49px;
+  left: 46px;
+  width: 100px;
+  height: 27.14px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.philosophy2 {
+  top: 0;
+  text-align: center;
+}
+.blog2,
+.contact2,
+.founder2,
+.philosophy2,
+.press2,
+.projects2 {
+  position: absolute;
+  left: 38px;
+  line-height: 141.4%;
+  cursor: pointer;
+}
+.projects2 {
+  top: 50px;
+  text-align: center;
+}
+.blog2,
+.contact2,
+.founder2,
+.press2 {
+  top: 100px;
+}
+.blog2,
+.contact2,
+.press2 {
+  top: 150px;
+}
+.blog2,
+.contact2 {
+  top: 200px;
+}
+.contact2 {
+  top: 250px;
+}
+.frame-inner {
+  position: absolute;
+  top: 172px;
+  left: 0;
+  width: 8px;
+  height: 8px;
+}
+.philosophy-container {
+  position: absolute;
+  top: 295px;
+  left: 46px;
+  width: 219px;
+  height: 294px;
+}
+.mobile-navbar-inner {
+  position: absolute;
+  top: 41px;
+  left: 325px;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+}
+.mobile-navbar2 {
+  position: relative;
+  background-color: var(--color-gray-200);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
